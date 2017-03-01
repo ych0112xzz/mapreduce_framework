@@ -1,0 +1,1 @@
+此项目解释mapreduce框架，参考https://github.com/inotepad/mapreduce_framework
