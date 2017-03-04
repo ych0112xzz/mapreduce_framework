@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mapreduce_framework.iml" filepath="$PROJECT_DIR$/mapreduce_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduceframework.iml" filepath="$PROJECT_DIR$/mapreduceframework.iml" />
     </modules>
   </component>
 </project>
