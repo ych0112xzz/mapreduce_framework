@@ -1,1 +1,1 @@
-此项目解释mapreduce框架，参考https://github.com/inotepad/mapreduce_framework
+此项目解释mapreduce框架，参考了https://github.com/inotepad/mapreduce_framework
